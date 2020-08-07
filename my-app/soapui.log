@@ -1,0 +1,31 @@
+2020-08-07 10:05:32,540 WARN  [SoapUI] Missing folder [C:\Users\VivekanandDhotre\Desktop\API Training\my-app\ext] for external libraries
+2020-08-07 10:05:33,024 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\VivekanandDhotre\soapui-settings.xml]
+2020-08-07 10:05:34,439 INFO  [WsdlProject] Loaded project from [file:/C:/Users/VivekanandDhotre/Desktop/API%20Training/my-app/APIProject-soapui-project.xml]
+2020-08-07 10:05:34,956 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [APIProject]
+2020-08-07 10:05:34,959 INFO  [SoapUITestCaseRunner] Running Project [APIProject], runType = SEQUENTIAL
+2020-08-07 10:05:35,035 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [E2E_PropertyAndPropertyTransfer]
+2020-08-07 10:05:35,054 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-07 10:05:35,148 INFO  [SoapUITestCaseRunner] running step [Property Transfer for Save]
+2020-08-07 10:05:35,730 INFO  [SoapUITestCaseRunner] running step [Save]
+2020-08-07 10:05:37,987 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:05:37,988 INFO  [SoapUITestCaseRunner] running step [getlist]
+2020-08-07 10:05:46,705 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:05:46,708 INFO  [SoapUITestCaseRunner] running step [Property Transfer for getById]
+2020-08-07 10:05:46,728 INFO  [SoapUITestCaseRunner] running step [getById]
+2020-08-07 10:05:47,535 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:05:47,537 INFO  [SoapUITestCaseRunner] running step [Property Transfer for deletebyId]
+2020-08-07 10:05:47,561 INFO  [SoapUITestCaseRunner] running step [deleteById]
+2020-08-07 10:05:48,760 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:05:48,775 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [E2E_PropertyAndPropertyTransfer], time taken: 13662ms, status: FINISHED
+2020-08-07 10:05:48,783 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [E2E_PropertyAndPropertyExpansion]
+2020-08-07 10:05:48,786 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-07 10:05:48,789 INFO  [SoapUITestCaseRunner] running step [Save]
+2020-08-07 10:05:49,788 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:05:49,789 INFO  [SoapUITestCaseRunner] running step [getlistById]
+2020-08-07 10:05:56,466 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:05:56,468 INFO  [SoapUITestCaseRunner] running step [getById]
+2020-08-07 10:05:57,318 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:05:57,319 INFO  [SoapUITestCaseRunner] running step [deleteById]
+2020-08-07 10:05:58,393 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 10:05:58,394 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [E2E_PropertyAndPropertyExpansion], time taken: 9589ms, status: FINISHED
+2020-08-07 10:05:58,403 INFO  [SoapUITestCaseRunner] Project [APIProject] finished with status [FINISHED] in 23429ms
